@@ -1,0 +1,12 @@
+{
+  "name": "node-font",
+  "scripts": {
+    "start": "node index"
+  },
+  "version": "1.0.0",
+  "description": "For generating font metric for avoiding Font layout shift happening when switching from fallback font to defined font",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {}
+}
